@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProject123",
+			"Path": "C:\\Users\\Admin\\Downloads\\UE Projects\\MyProject123\\Source\\MyProject123.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProject123Editor",
+			"Path": "C:\\Users\\Admin\\Downloads\\UE Projects\\MyProject123\\Source\\MyProject123Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
